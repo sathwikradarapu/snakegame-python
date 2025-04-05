@@ -25,9 +25,9 @@ A simple Snake Game built with Python and Pygame!
 
 ## 🌟 Future Ideas
 
--Add scoring system
--Add levels with increasing speed
--Add restart or main menu
+- Add scoring system
+- Add levels with increasing speed
+- Add restart or main menu
 
 ## ⚙️ Install Dependencies
 
